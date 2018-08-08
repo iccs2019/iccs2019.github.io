@@ -1,6 +1,6 @@
 title: ICCS 2019
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+   International Conference on Cognitive Science (ICCS)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "iccs2019.github.io" # the base hostname & protocol for your site
 # Build settings
@@ -26,9 +26,9 @@ plugins:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com
+    url: https://www.facebook.com/iccs2019
   - title: twitter
-    url: https://twitter.com
+    url: https://twitter.com/iccs2019
 
 # Build settings
 markdown: kramdown
