@@ -1,0 +1,10 @@
+---
+title: Hyeon-Ae Jeon
+name: Hyeon-Ae Jeon
+subtitle: Program Committee Member
+layout: 2017_default
+img: hajeon.jpg
+thumbnail: hajeon.jpg
+alt: Picture of Hyeon-Ae Jeon
+description: Hyeon-Ae Jeon is an assistant professor in the Department of Cognitive and Brain Sciences, DGIST.
+---

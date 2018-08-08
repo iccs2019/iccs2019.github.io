@@ -1,0 +1,10 @@
+---
+title: Hackjin Kim
+name: Hackjin Kim
+subtitle: Program Committee Members
+layout: 2017_default
+img: hjkim.jpg
+thumbnail: hjkim.jpg
+alt: Picture of Hackjin Kim
+description: Hackjin Kim is a professor in the Department of Psychology at Korea University.
+---

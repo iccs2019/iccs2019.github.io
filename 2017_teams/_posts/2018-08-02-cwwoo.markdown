@@ -1,0 +1,10 @@
+---
+title: Choong-Wan Woo
+name: Choong-Wan Woo
+subtitle: Program Committee Member
+layout: 2017_default
+img: cwwoo.jpg
+thumbnail: cwwoo.jpg
+alt: Picture of Choong-Wan Woo
+description: Choong-Wan Woo is an assistant professor at the IBS Center for Neuroscience Imaging Research and the Department of Biomedical Engineering in the Sungkyunkwan University(SKKU).
+---
