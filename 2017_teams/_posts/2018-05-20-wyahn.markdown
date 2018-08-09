@@ -5,6 +5,6 @@ subtitle: Organizing Committee Member
 layout: 2017_default
 img: wyahn.jpg
 thumbnail: wyahn.jpg
-alt: Picture of Woo young Ahn
-description: Woo Young Ahn is an assistant professor in the Department of Psychology at Seoul National University (September 2017 - Present).
+alt: Picture of Woo-young Ahn
+description: Woo-Young Ahn is an assistant professor in the Department of Psychology at Seoul National University (September 2017 - Present).
 ---
