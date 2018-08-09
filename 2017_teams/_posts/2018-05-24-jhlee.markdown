@@ -1,6 +1,6 @@
 ---
 title: Jong-Hwan Lee
-name: Jong-Hwan Lee
+name: Jong-Hwan-Lee
 subtitle: Program Committee Member
 layout: 2017_default
 img: jhlee.jpg

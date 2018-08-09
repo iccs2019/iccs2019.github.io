@@ -1,6 +1,6 @@
 ---
 title: Dayk Jang
-name: Dayk Jang
+name: Dayk-Jang
 subtitle: Organizing Committee Chair
 layout: 2017_default
 img: dyjang.jpg

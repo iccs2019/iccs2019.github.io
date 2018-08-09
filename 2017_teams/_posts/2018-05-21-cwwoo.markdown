@@ -1,6 +1,6 @@
 ---
 title: Choong-Wan Woo
-name: Choong-Wan Woo
+name: Choong-Wan-Woo
 subtitle: Program Committee Member
 layout: 2017_default
 img: cwwoo.jpg

@@ -1,6 +1,6 @@
 ---
-title: Woo Young AHn
-name: Woo Young AHn
+title: Woo-Young AHn
+name: Woo-Young-AHn
 subtitle: Organizing Committee Member
 layout: 2017_default
 img: wyahn.jpg

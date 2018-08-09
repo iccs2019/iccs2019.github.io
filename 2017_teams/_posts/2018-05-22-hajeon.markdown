@@ -1,6 +1,6 @@
 ---
 title: Hyeon-Ae Jeon
-name: Hyeon-Ae Jeon
+name: Hyeon-Ae-Jeon
 subtitle: Program Committee Member
 layout: 2017_default
 img: hajeon.jpg

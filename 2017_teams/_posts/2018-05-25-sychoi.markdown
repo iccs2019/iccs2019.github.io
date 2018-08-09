@@ -1,6 +1,6 @@
 ---
 title: Se-Young Choi
-name: Se-Young Choi
+name: Se-Young-Choi
 subtitle: Program Committee Chair
 layout: 2017_default
 img: sychoi.jpg

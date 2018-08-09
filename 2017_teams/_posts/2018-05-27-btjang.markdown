@@ -1,6 +1,6 @@
 ---
 title: Byoung-Tak Zhang
-name: Byoung-Tak Zhang
+name: Byoung-Tak-Zhang
 subtitle: Conference Committee Chair
 layout: 2017_default
 img: btjang.jpg
