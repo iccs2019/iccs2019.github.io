@@ -7,4 +7,5 @@ img: jhlee.jpg
 thumbnail: jhlee.jpg
 alt: Picture of Jong-Hwan Lee
 description: Jong-Hwan Lee is an associate professor in the Department of Brain and Cognitive Engineering at Korea University.
+website: https://sites.google.com/site/bsplkoreauniversity/
 ---

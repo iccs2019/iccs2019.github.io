@@ -7,4 +7,5 @@ img: hjkim.jpg
 thumbnail: hjkim.jpg
 alt: Picture of Hackjin Kim
 description: Hackjin Kim is a professor in the Department of Psychology at Korea University.
+website: https://www.socialdecisionneurosciencelab.org/
 ---

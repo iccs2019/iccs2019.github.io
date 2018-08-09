@@ -7,4 +7,5 @@ img: sychoi.jpg
 thumbnail: sychoi.jpg
 alt: Picture of Se-Young Choi
 description: Se-Young Choi is a professor in the Department of Dentistry at Seoul National University.
+website: http://www.ibric.org/myboard/read.php?id=849&Board=biolab
 ---

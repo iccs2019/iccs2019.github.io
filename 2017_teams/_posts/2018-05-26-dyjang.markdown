@@ -7,4 +7,5 @@ img: dyjang.jpg
 thumbnail: dyjang.jpg
 alt: Picture of Dayk Jang
 description: Dayk Jang is a professor in the College of Liberal Studies at Seoul National University.
+website: http://cls.snu.ac.kr/node/8
 ---

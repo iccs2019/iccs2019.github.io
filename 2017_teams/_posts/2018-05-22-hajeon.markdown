@@ -7,4 +7,5 @@ img: hajeon.jpg
 thumbnail: hajeon.jpg
 alt: Picture of Hyeon-Ae Jeon
 description: Hyeon-Ae Jeon is an assistant professor in the Department of Cognitive and Brain Sciences, DGIST.
+website: http://cogneuro.dgist.ac.kr
 ---

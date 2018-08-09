@@ -7,4 +7,5 @@ img: btjang.jpg
 thumbnail: btjang.jpg
 alt: Picture of Byuong-Tak Zhang
 description: Byoung-Tak Zhang is a professor in the School of Computer Science and Engineering & Cognitive Science, Brain Science, and Bioinformatics at Seoul National University.
+website: https://bi.snu.ac.kr/
 ---

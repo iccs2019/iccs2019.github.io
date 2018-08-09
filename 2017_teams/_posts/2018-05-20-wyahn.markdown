@@ -1,10 +1,11 @@
 ---
-title: Woo-Young AHn
-name: Woo-Young-AHn
+title: Woo-Young Ahn
+name: Woo-Young-Ahn
 subtitle: Organizing Committee Member
 layout: 2017_default
 img: wyahn.jpg
 thumbnail: wyahn.jpg
 alt: Picture of Woo-young Ahn
-description: Woo-Young Ahn is an assistant professor in the Department of Psychology at Seoul National University (September 2017 - Present).
+description: Woo-Young Ahn is an assistant professor in the Department of Psychology at Seoul National University. 
+website: https://ccs-lab.github.io/
 ---
