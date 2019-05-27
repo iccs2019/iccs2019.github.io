@@ -1,0 +1,12 @@
+---
+title: Dr. Kenji Doya
+name: Kenji-Doya
+subtitle: Professor of Neural Computation Unit at Okinawa Institute of Sci & Tech (Japan)
+layout: 2017_default
+modal-id: 1
+img: Kenji-Doya.jpg
+thumbnail: Kenji-Doya.jpg
+alt: Picture of Dr. Kenji Doya
+topic: Keynote Speech
+description: Dr. Kenji Doya serves as the Co-Editor in Chief of Neural Networks since 2008 and a board member of Japanese Neural Network Society (JNNS) and Japan Neuroscience Society (JNSS). He served as the Program Co-Chair of International Conference on Neural Information Processing (ICONIP) in 2007 and 2016, the Program Chair of JNSS meeting in 2010, and the General Chair of JNNS meeting in 2011 and 2018. He received Tsukahara Award and JSPS Award in 2007, MEXT Prize for Science and Technology in 2012, and Donald O. Hebb Award in 2018. He lead the MEXT project “Prediction and Decision Making” from 2011 to 2016 and currently leads a new MEXT project “Artificial Intelligence and Brain Science”. He is interested in understanding the functions of basal ganglia and the cortical circuit based on the theory of reinforcement learning and Bayesian inference. 
+---

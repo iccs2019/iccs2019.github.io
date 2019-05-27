@@ -1,0 +1,12 @@
+---
+title: Dr. Kenneth D. Forbus
+name: Kenneth-D-Forbus
+subtitle: Walter P. Murphy Professor of Computer Science and Professor of Education at Northwestern University
+layout: 2017_default
+modal-id: 1
+img: Kenneth-D-Forbus.jpg
+thumbnail: Kenneth-D-Forbus.jpg
+alt: Picture of Dr. Kenneth D. Forbus
+topic: Opening Keynote Speech
+description: Dr. Kenneth D. Forbus is a pioneer of cognitive science (CogSketch, companion cognitive architecture, and interactive intelligence) and a former president of CogSci. <br><br> His research interests include qualitative reasoning, analogical reasoning and learning, spatial reasoning, sketch understanding, natural language understanding, cognitive architecture, reasoning system design, intelligent educational software, and the use of AI in interactive entertainment. <br><br> He is a Fellow of the Association for the Advancement of Artificial Intelligence, the Cognitive Science Society, and the Association for Computing Machinery.  He has received Humboldt Award and has served as Chair of the Cognitive Science Society. 
+---

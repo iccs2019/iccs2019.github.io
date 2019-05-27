@@ -1,0 +1,12 @@
+---
+title: Dr. Klaus Obermayer
+name: Klaus-Obermayer
+subtitle: Professor of Electrical Engineering and Computer Science, Berlin University of Technology
+layout: 2017_default
+modal-id: 1
+img: Klaus-Obermayer.jpg
+thumbnail: Klaus-Obermayer.jpg
+alt: Picture of Dr. Klaus Obermayer
+topic: Opening Keynote Speech
+description: Dr. Klaus-Obermeyer is the Head of the Neural Information Processing Group and a member of the steering committee of the Bernstein Center for Computational Neuroscience Berlin. He was member of the governing board of the International Neural Network Society from 2004 to 2012 and was Vice-President of the Organisation for Computational Neuroscience from 2008 to 2011. From 1999 to 2003, he was one of the Directors of the European Advanced Course of Computational Neuroscience. His current research interest include computational neuroscience, artificial neural networks and machine learning, and the analysis of neural data. He co-authored more than 250 scientific publications.. 
+---

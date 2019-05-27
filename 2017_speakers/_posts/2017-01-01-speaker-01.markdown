@@ -1,12 +1,12 @@
 ---
-title: Dr. Kenneth D. Forbus
-name: Kenneth-D-Forbus
-subtitle: Walter P. Murphy Professor of Computer Science and Professor of Education at Northwestern University
+title: Dr. Chen Yu
+name: Chen-Yu
+subtitle: Professor of Psychological and Brain Science at Indiana University
 layout: 2017_default
 modal-id: 1
-img: Kenneth-D-Forbus.jpg
-thumbnail: Kenneth-D-Forbus.jpg
-alt: Picture of Dr. Kenneth D. Forbus
+img: Chen-Yu.jpg
+thumbnail: Chen-Yu.jpg
+alt: Picture of Dr. Chen Yu
 topic: Opening Keynote Speech
-description: Our first speaker delivering our opening keynote speech is Dr. Kenneth D Forbus, the Walter P. Murphy Professor of Computer Science and Professor of Education at Northwestern University.<br><br>Dr. Kenneth D. Forbus is a pioneer of cognitive science (CogSketch, companion cognitive architecture, and interactive intelligence) and a former president of CogSci. <br><br> His research interests include qualitative reasoning, analogical reasoning and learning, spatial reasoning, sketch understanding, natural language understanding, cognitive architecture, reasoning system design, intelligent educational software, and the use of AI in interactive entertainment. <br><br> He is a Fellow of the Association for the Advancement of Artificial Intelligence, the Cognitive Science Society, and the Association for Computing Machinery.  He has received Humboldt Award and has served as Chair of the Cognitive Science Society. 
+description: Dr. Chen Yu's research focuses on understanding human development and learning through both empirical studies and computational models with the hope to get a more complete picture. He is particularly interested in how language is grounded in sensorimotor experience and how language development depends on complex interactions among brain, body and environment. Based on computational models of human language acquisition and findings from empirical studies, he is passionate about building anthropomorphic machines that learn and use language in human-like ways. 
 ---

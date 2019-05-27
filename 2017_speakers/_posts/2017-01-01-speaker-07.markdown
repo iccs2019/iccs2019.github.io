@@ -1,0 +1,12 @@
+---
+title: Dr. James Anderson
+name: James-Anderson
+subtitle: Professor of Cognitive, Linguistic and Psychological Sciences at Brown University
+layout: 2017_default
+modal-id: 1
+img: James-Anderson.jpg
+thumbnail: James-Anderson.jpg
+alt: Picture of Dr. James Anderson
+topic: Keynote Speech
+description: Dr. James Anderson is a pioneer of neural networks and connectionist AI (Ersatz Brain Project). <br><br> He has written or co-written seven books, including Introduction to Neural Networks. Anderson studies how brains and computers are different in the way they compute, with a focus on neural networks. Recently, he has been working on a set of models of the intermediate-level organization of the nervous system, and the scaling of computational systems. <br><br> His talk will put recent Artificial Intelligence in a historical perspective and discuss ways we can extend and enhance the current fascination with deep learning. He will bring some of his work on arithmetic as an example of a different kind of  "brain-like computation." 
+---
