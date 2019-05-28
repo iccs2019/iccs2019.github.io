@@ -1,12 +1,12 @@
 ---
 title: Dr. Helge Ritter
 name: Helge-Ritter
-subtitle: Professor of Information Science at University of Bielefeld
+subtitle: Director of Cognitive Interaction Technology Excellence Center, University of Bielefeld
 layout: 2017_default
 modal-id: 1
 img: Helge-Ritter.jpg
 thumbnail: Helge-Ritter.jpg
 alt: Picture of Dr. Helge Ritter
-topic: Opening Keynote Speech
-description: Dr. Helge Ritter is the Professor at the Department of Information Science, University of Bielefeld. His main interests are principles of neural computation, in particular self-organizing and learning systems, and their application to robot cognition, data analysis and interactive man-machine interfaces. In 1999, Helge Ritter was awarded the SEL Alcatel Research Prize and in 2001 the Leibniz Prize of the German Research Foundation DFG. Helge Ritter is co-founder and one of the directors of the Bielefeld Institute of Cognition and Robotics (CoR-Lab) and coordinator of the excellence cluster "Cognitive Interaction Technology". 
+topic: 
+description: Dr. Helge Ritter is the Director of Cognitive Interaction Technology Excellence Center, University of Bielefeld. His main interests are principles of neural computation, in particular self-organizing and learning systems, and their application to robot cognition, data analysis and interactive man-machine interfaces. In 1999, Helge Ritter was awarded the SEL Alcatel Research Prize and in 2001 the Leibniz Prize of the German Research Foundation DFG. Helge Ritter is co-founder and one of the directors of the Bielefeld Institute of Cognition and Robotics (CoR-Lab) and coordinator of the excellence cluster "Cognitive Interaction Technology". 
 ---

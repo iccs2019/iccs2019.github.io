@@ -1,0 +1,11 @@
+---
+title: Do-Joon Yi
+name: Do-Joon-Yi
+subtitle: Program Committee Chair
+layout: 2017_default
+img: djyi.jpg
+thumbnail: djyi.jpg
+alt: Picture of Do-Joon Yi
+description: Do-Joon Yi is a professor of Psychology at Yonsei University. 
+website: http://cogneuro.or.kr/
+---

@@ -7,6 +7,6 @@ modal-id: 1
 img: Chen-Yu.jpg
 thumbnail: Chen-Yu.jpg
 alt: Picture of Dr. Chen Yu
-topic: Opening Keynote Speech
+topic: 
 description: Dr. Chen Yu's research focuses on understanding human development and learning through both empirical studies and computational models with the hope to get a more complete picture. He is particularly interested in how language is grounded in sensorimotor experience and how language development depends on complex interactions among brain, body and environment. Based on computational models of human language acquisition and findings from empirical studies, he is passionate about building anthropomorphic machines that learn and use language in human-like ways. 
 ---

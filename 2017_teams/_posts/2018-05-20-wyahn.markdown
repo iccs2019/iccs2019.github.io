@@ -1,7 +1,7 @@
 ---
 title: Woo-Young Ahn
 name: Woo-Young-Ahn
-subtitle: Organizing Committee Member
+subtitle: Organizing Committee Chair
 layout: 2017_default
 img: wyahn.jpg
 thumbnail: wyahn.jpg

@@ -7,6 +7,6 @@ modal-id: 1
 img: Bruno-Bara.jpg
 thumbnail: Bruno-Bara.jpg
 alt: Picture of Dr. Bruno Bara
-topic: Keynote Speech
+topic: 
 description: Dr. Bruno Bara is the Professor of Psychology at University of Turin, Italy. His scientific career developed within the framework of cognitive science (Cognitive Science, Psychology Press 1995). In 1993 he founded the Center for Cognitive Science at the University and Polytechnic of Turin (Italy), which his since then became an influential school in the domain of cognitive pragmatics. His research interest focus on the mental processes underlying communication through different methods - behavioral experiments in healthy children and adults, and in clinical population. In recent years, his main interest has been in social cognitive neuroscience, In particular, he has been working on the neural bases of social interaction in neurotypical and clinical populations (such as people with autism and schizophrenia). He is also a cognitive therapist in the costructivistic vein; he founded three schools of cognitive psychotherapy in northern Italy, focused on increasing the clients' awareness about themselves through the client/therapist relation. 
 ---
