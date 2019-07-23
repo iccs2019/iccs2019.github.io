@@ -1,7 +1,7 @@
 ---
-title: Woo-Young Ahn
-name: Woo-Young-Ahn
-subtitle: Organizing Committee Chair
+title: Jeong-Woo Sohn
+name: Jeong-Woo Sohn
+subtitle: Organizing Committee Co-Chair
 layout: 2017_default
 img: 
 thumbnail: 

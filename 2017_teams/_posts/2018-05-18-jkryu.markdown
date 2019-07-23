@@ -1,7 +1,7 @@
 ---
-title: Woo-Young Ahn
-name: Woo-Young-Ahn
-subtitle: Organizing Committee Chair
+title: Je-Kwang Ryu
+name: Je-Kwang Ryu
+subtitle: Financial Committee Co-Chair
 layout: 2017_default
 img: 
 thumbnail: 
